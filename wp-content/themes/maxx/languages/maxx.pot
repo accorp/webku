@@ -1,0 +1,661 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Maxx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-08 15:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: maxx"
+
+#: include/breadcrumb.php:150
+msgid " Page : "
+msgstr ""
+
+#: include/template-tags.php:126
+#, php-format
+msgid ""
+"&copy; %1$s. Maxx theme from <a href=\"%2$s\">Ciuss Creative</a>. Proudly "
+"powered by <a href=\"%3$s\">WordPress</a>"
+msgstr ""
+
+#: functions.php:302
+msgid "&nbsp;ago"
+msgstr ""
+
+#: 404.php:8
+msgid "404, Page Not Found"
+msgstr ""
+
+#: include/user-profile.php:13
+msgid "62"
+msgstr ""
+
+#: include/customizer/global.php:77
+msgid "<div class=\"headsetting notfirst\">Default Thumbnail Post</div>"
+msgstr ""
+
+#: include/customizer/global.php:101
+msgid "<div class=\"headsetting notfirst\">Default Thumbnail Share</div>"
+msgstr ""
+
+#: include/customizer/font.php:151
+msgid "<div class=\"headsetting notfirst\">Font Archive</div>"
+msgstr ""
+
+#: include/customizer/font.php:92
+msgid "<div class=\"headsetting notfirst\">Font Menu</div>"
+msgstr ""
+
+#: include/customizer/font.php:51
+msgid "<div class=\"headsetting notfirst\">Heading Font (H1-H6)</div>"
+msgstr ""
+
+#: include/customizer/global.php:127
+msgid "<div class=\"headsetting notfirst\">Image Appearance</div>"
+msgstr ""
+
+#: include/customizer/global.php:153
+msgid "<div class=\"headsetting notfirst\">Publish Date Format</div>"
+msgstr ""
+
+#: include/customizer/header.php:71
+msgid "<div class=\"headsetting notfirst\">Search Form</div>"
+msgstr ""
+
+#: include/customizer/header.php:36
+msgid "<div class=\"headsetting notfirst\">Social Media</div>"
+msgstr ""
+
+#: include/customizer/loop.php:57
+msgid "<div class=\"headsetting\">Box Color Setting</div>"
+msgstr ""
+
+#: include/customizer/loop.php:13
+msgid "<div class=\"headsetting\">Box Post Setting</div>"
+msgstr ""
+
+#: include/customizer/footer.php:14 include/customizer/single.php:13
+msgid "<div class=\"headsetting\">Color Setting</div>"
+msgstr ""
+
+#: include/customizer/font.php:13
+msgid "<div class=\"headsetting\">Global Font</div>"
+msgstr ""
+
+#: include/customizer/global.php:13
+msgid "<div class=\"headsetting\">Global Setting</div>"
+msgstr ""
+
+#: include/customizer/header.php:13
+msgid "<div class=\"headsetting\">Heading Block</div>"
+msgstr ""
+
+#: include/customizer/menu.php:13
+msgid "<div class=\"headsetting\">Menu Setting</div>"
+msgstr ""
+
+#: include/customizer/loop.php:131
+msgid "<div class=\"headsetting\">Pagination Setting</div>"
+msgstr ""
+
+#: include/customizer/sidebar.php:13
+msgid "<div class=\"headsetting\">Sidebar Color Setting</div>"
+msgstr ""
+
+#: functions.php:398
+msgid "<div class=\"related_title\">Read Also</div>"
+msgstr ""
+
+#: include/customizer/menu.php:76 include/customizer/sidebar.php:49
+#: include/customizer/single.php:49
+msgid "Accent Color"
+msgstr ""
+
+#: include/customizer/global.php:141
+msgid "Activate"
+msgstr ""
+
+#: include/customizer/loop.php:195
+msgid "Active Background"
+msgstr ""
+
+#: include/customizer/loop.php:207
+msgid "Active Border Color"
+msgstr ""
+
+#: include/customizer/loop.php:219
+msgid "Active Text Color"
+msgstr ""
+
+#: include/customizer/ads.php:3
+msgid "Ads Slots"
+msgstr ""
+
+#: include/customizer/ads.php:13
+msgid "After Header"
+msgstr ""
+
+#: include/breadcrumb.php:105
+msgid "Attachment"
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: include/customizer/loop.php:41
+msgid "Author Avatar"
+msgstr ""
+
+#: include/customizer/loop.php:82
+msgid "Author Color"
+msgstr ""
+
+#: include/customizer/font.php:162
+msgid "Author Font Family"
+msgstr ""
+
+#: include/customizer/footer.php:26 include/customizer/header.php:25
+#: include/customizer/header.php:83 include/customizer/loop.php:70
+#: include/customizer/loop.php:158 include/customizer/menu.php:40
+msgid "Background"
+msgstr ""
+
+#: include/customizer/ads.php:46
+msgid "Before Footer"
+msgstr ""
+
+#: widgets/latest-sidebar.php:95
+msgid "Block Title"
+msgstr ""
+
+#: include/customizer/global.php:40
+msgid "Body Background"
+msgstr ""
+
+#: include/customizer/global.php:52
+msgid "Body Color"
+msgstr ""
+
+#: include/customizer/global.php:64
+msgid "Body Link"
+msgstr ""
+
+#: include/customizer/font.php:80 include/customizer/font.php:136
+#: include/customizer/font.php:180
+msgid "Bold"
+msgstr ""
+
+#: include/customizer/header.php:95 include/customizer/loop.php:170
+msgid "Border Color"
+msgstr ""
+
+#: include/customizer/menu.php:52
+msgid "Border Top Color"
+msgstr ""
+
+#: include/customizer/loop.php:25
+msgid "Box Style"
+msgstr ""
+
+#: include/customizer/loop.php:28
+msgid "Box With Shadow"
+msgstr ""
+
+#: include/customizer/loop.php:29
+msgid "Box Without Shadow"
+msgstr ""
+
+#: include/customizer/header.php:119
+msgid "Button Background"
+msgstr ""
+
+#: include/customizer/header.php:131
+msgid "Button Color"
+msgstr ""
+
+#: include/customizer/loop.php:106
+msgid "Category Color"
+msgstr ""
+
+#: include/customizer/loop.php:145
+msgid "Center"
+msgstr ""
+
+#: include/customizer/global.php:92 include/customizer/global.php:117
+msgid "Change Image"
+msgstr ""
+
+#: include/customizer/global.php:164
+msgid "Choose format date for post"
+msgstr ""
+
+#: include/customizer/global.php:90 include/customizer/global.php:115
+msgid "Choose Image"
+msgstr ""
+
+#. Author of the theme
+msgid "Ciuss Creative"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ciuss Creative present Maxx theme, fast and simple theme for news website."
+msgstr ""
+
+#: include/customizer/loop.php:94
+msgid "Date Color"
+msgstr ""
+
+#: include/customizer/menu.php:27
+msgid "Date on Left"
+msgstr ""
+
+#: include/customizer/menu.php:28
+msgid "Date on Right"
+msgstr ""
+
+#: include/customizer/menu.php:24
+msgid "Date Position"
+msgstr ""
+
+#: functions.php:270
+msgid "day"
+msgstr ""
+
+#: include/customizer/global.php:142
+msgid "Deactivate"
+msgstr ""
+
+#: functions.php:506
+msgid "DESCRIPTION : Add video link from Youtube, Vimeo, etc"
+msgstr ""
+
+#: include/breadcrumb.php:6 include/breadcrumb.php:144
+msgid "Error 404"
+msgstr ""
+
+#: include/user-profile.php:17 include/customizer/social.php:14
+msgid "Facebook"
+msgstr ""
+
+#: include/customizer/pixel.php:3
+msgid "Facebook Pixel"
+msgstr ""
+
+#: include/customizer/ads.php:24
+msgid "Floating Left"
+msgstr ""
+
+#: include/customizer/ads.php:35
+msgid "Floating Right"
+msgstr ""
+
+#: include/customizer/font.php:24 include/customizer/font.php:62
+#: include/customizer/font.php:103
+msgid "Font Family"
+msgstr ""
+
+#: include/customizer/font.php:3
+msgid "Font Setting"
+msgstr ""
+
+#: include/customizer/font.php:36 include/customizer/font.php:115
+msgid "Font Size"
+msgstr ""
+
+#: include/customizer/font.php:74 include/customizer/font.php:130
+#: include/customizer/font.php:174
+msgid "Font Weight"
+msgstr ""
+
+#: include/customizer/footer.php:3
+msgid "Footer Area"
+msgstr ""
+
+#: include/customizer/global.php:3
+msgid "Global Setting"
+msgstr ""
+
+#: include/customizer/sidebar.php:25 include/customizer/single.php:25
+msgid "Heading Color"
+msgstr ""
+
+#: include/customizer/loop.php:45
+msgid "Hide Avatar"
+msgstr ""
+
+#: include/breadcrumb.php:37 include/breadcrumb.php:45
+msgid "Home"
+msgstr ""
+
+#: functions.php:271
+msgid "hour"
+msgstr ""
+
+#: include/user-profile.php:19 include/user-profile.php:25
+#: include/user-profile.php:31 include/user-profile.php:37
+#: include/customizer/social.php:19 include/customizer/social.php:34
+#: include/customizer/social.php:49 include/customizer/social.php:64
+msgid "https://..."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ciuss.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://maxx.ciuss.net"
+msgstr ""
+
+#: include/customizer/header.php:48
+msgid "Icon Background"
+msgstr ""
+
+#: include/customizer/header.php:60
+msgid "Icon Color"
+msgstr ""
+
+#: include/customizer/ads.php:70
+msgid "Inline Ads 1"
+msgstr ""
+
+#: include/customizer/ads.php:81
+msgid "Inline Ads 2"
+msgstr ""
+
+#: include/customizer/header.php:107
+msgid "Input Color"
+msgstr ""
+
+#: include/customizer/pixel.php:14
+msgid "Insert Pixel ID"
+msgstr ""
+
+#: include/user-profile.php:29 include/customizer/social.php:44
+msgid "Instagram"
+msgstr ""
+
+#: widgets/latest-sidebar.php:19 widgets/latest-sidebar.php:91
+msgid "Latest Post"
+msgstr ""
+
+#: include/customizer/loop.php:146
+msgid "Left"
+msgstr ""
+
+#: include/customizer/ads.php:92
+msgid "Left Related Ads"
+msgstr ""
+
+#: include/customizer/font.php:77 include/customizer/font.php:133
+#: include/customizer/font.php:177
+msgid "Light"
+msgstr ""
+
+#: include/customizer/footer.php:50 include/customizer/runtext.php:38
+#: include/customizer/sidebar.php:61
+msgid "Link Color"
+msgstr ""
+
+#: functions.php:49
+msgid "Location Footer"
+msgstr ""
+
+#: functions.php:46
+msgid "Location Header Navigation"
+msgstr ""
+
+#: include/template-tags.php:114
+msgid ""
+"Maecenas et varius velit, ut vehicula leo. Proin consequat libero magna. "
+"Vestibulum eleifend ligula a risus viverra ultrices. Sed sit amet placerat "
+"purus. Duis ultrices est in magna"
+msgstr ""
+
+#. Name of the theme
+msgid "Maxx"
+msgstr ""
+
+#: widgets/latest-sidebar.php:10
+msgid "Maxx : Latest Post (Sidebar)"
+msgstr ""
+
+#. %s: WordPress version.
+#: include/back-compat.php:12
+#, php-format
+msgid "Maxx need at least WordPress version 6.1. Your current version is %s."
+msgstr ""
+
+#: include/customizer.php:1455
+msgid "Maxx theme settting"
+msgstr ""
+
+#: include/customizer/menu.php:64
+msgid "Menu Color"
+msgstr ""
+
+#: include/customizer/menu.php:3
+msgid "Menu Header"
+msgstr ""
+
+#: functions.php:272
+msgid "minute"
+msgstr ""
+
+#: functions.php:133
+msgid "minutes"
+msgstr ""
+
+#: functions.php:268
+msgid "month"
+msgstr ""
+
+#: content/trending.php:37
+#, php-format
+msgid "No new posts found %s"
+msgstr ""
+
+#: content/looping.php:47
+msgid "No posts found"
+msgstr ""
+
+#: include/customizer/font.php:78 include/customizer/font.php:134
+#: include/customizer/font.php:178
+msgid "Normal"
+msgstr ""
+
+#: widgets/latest-sidebar.php:99
+msgid "Number of posts to show :"
+msgstr ""
+
+#: single.php:25
+msgid "on"
+msgstr ""
+
+#: include/customizer/loop.php:142
+msgid "Position"
+msgstr ""
+
+#: include/customizer/loop.php:3
+msgid "Post Archive"
+msgstr ""
+
+#: include/customizer/global.php:168
+msgid "Publish Date"
+msgstr ""
+
+#: include/news-feed.php:21
+msgid "Q & A"
+msgstr ""
+
+#: content/related-post.php:10 content/related-small.php:10
+msgid "Related posts"
+msgstr ""
+
+#: include/customizer/global.php:167
+msgid "Relative Time"
+msgstr ""
+
+#: include/customizer/global.php:91 include/customizer/global.php:116
+msgid "Remove Image"
+msgstr ""
+
+#: include/customizer/sidebar.php:3
+msgid "Right Sidebar"
+msgstr ""
+
+#: include/customizer/global.php:138
+msgid "Rounded Image"
+msgstr ""
+
+#: include/customizer/runtext.php:3
+msgid "Running Text"
+msgstr ""
+
+#: search.php:8
+msgid "Search : "
+msgstr ""
+
+#: searchform.php:4 searchform.php:8
+msgid "Search..."
+msgstr ""
+
+#: functions.php:273 functions.php:300
+msgid "second"
+msgstr ""
+
+#: include/customizer/font.php:79 include/customizer/font.php:135
+#: include/customizer/font.php:179
+msgid "Semi Bold"
+msgstr ""
+
+#: content/share-archive.php:3 content/share-post.php:4 content/share.php:65
+msgid "Share to Facebook"
+msgstr ""
+
+#: content/share-archive.php:15 content/share-post.php:16 content/share.php:77
+msgid "Share to Telegram"
+msgstr ""
+
+#: content/share-archive.php:6 content/share-post.php:7 content/share.php:68
+msgid "Share to Twitter"
+msgstr ""
+
+#: content/share-archive.php:9 content/share-archive.php:12
+#: content/share-post.php:10 content/share-post.php:13 content/share.php:71
+#: content/share.php:74
+msgid "Share to WhatsApp"
+msgstr ""
+
+#: include/customizer/loop.php:44
+msgid "Show Avatar"
+msgstr ""
+
+#: widgets/latest-sidebar.php:6
+msgid "Show latest post on Sidebar"
+msgstr ""
+
+#: functions.php:379
+msgid "Sidebar"
+msgstr ""
+
+#: include/customizer/single.php:3
+msgid "Single Post"
+msgstr ""
+
+#: include/user-profile.php:5 include/customizer/social.php:3
+msgid "Social Media"
+msgstr ""
+
+#: include/customizer/runtext.php:14
+msgid "Span Background"
+msgstr ""
+
+#: include/customizer/runtext.php:26
+msgid "Span Color"
+msgstr ""
+
+#: include/customizer/ads.php:58
+msgid "Sticky Bottom"
+msgstr ""
+
+#: include/customizer/menu.php:88
+msgid "Submenu Background"
+msgstr ""
+
+#: include/customizer/menu.php:100
+msgid "Submenu Color"
+msgstr ""
+
+#: archive.php:11
+#, php-format
+msgid "Tag : %s"
+msgstr ""
+
+#: include/customizer/footer.php:38 include/customizer/loop.php:182
+#: include/customizer/sidebar.php:37 include/customizer/single.php:37
+msgid "Text Color"
+msgstr ""
+
+#: include/customizer.php:1454
+msgid "Theme Setting"
+msgstr ""
+
+#: content/trending.php:4
+msgid "this day"
+msgstr ""
+
+#: content/trending.php:10
+msgid "this month"
+msgstr ""
+
+#: 404.php:9
+msgid "this page not found or link you visit is expired"
+msgstr ""
+
+#: content/trending.php:7
+msgid "this week"
+msgstr ""
+
+#: include/customizer/loop.php:118
+msgid "Title Color"
+msgstr ""
+
+#: include/customizer/header.php:3
+msgid "Top Header"
+msgstr ""
+
+#: include/user-profile.php:23 include/customizer/social.php:29
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:269
+msgid "week"
+msgstr ""
+
+#: include/user-profile.php:11
+msgid "WhatsApp"
+msgstr ""
+
+#: functions.php:267
+msgid "year"
+msgstr ""
+
+#: functions.php:240
+msgid "Your comment awaiting Admin moderation."
+msgstr ""
+
+#: include/user-profile.php:35 include/customizer/social.php:59
+msgid "Youtube"
+msgstr ""
